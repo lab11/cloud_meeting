@@ -87,11 +87,7 @@ class ServiceController ():
                 pass
 
             # print stuff to the screen
-            self.update_screen()
-
-            # automatically re-run locate if it's been static too long
-            if ((time.time() - self.last_locate_time) > self.LOCATE_PERIOD):
-                self.locate_everyone()
+            #self.update_screen()
 
             # check data for validity
             if (pkt == None or 'location_str' not in pkt or 'time' not in pkt):
@@ -105,8 +101,9 @@ class ServiceController ():
                 #MEGHAN: Do stuff here
                 # Then after that
                 # add more keys and values to me!!!
-                data = {'location_str': pkt['location_str']}
-                post_to_gatd(data, self.post_address, self.log)
+                #data = {'location_str': pkt['location_str']}
+                #post_to_gatd(data, self.post_address, self.log)
+                print(pkt)
 
 
     def update_screen(self):
