@@ -15,7 +15,8 @@ soup = BeautifulSoup(html_page)
 services = []
 
 
-filename = time.strftime("%Y-%b%d_SIG-services")+ ".csv"
+#filename = time.strftime("%Y-%b%d_SIG-services")+ ".csv"
+filename = "sig-services.csv"
 for link in soup.findAll('a'):
     if link == None:
          continue

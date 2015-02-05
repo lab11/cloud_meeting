@@ -104,6 +104,7 @@ class ServiceController ():
                 #data = {'location_str': pkt['location_str']}
                 #post_to_gatd(data, self.post_address, self.log)
                 print(pkt)
+                print("\n")
 
 
     def update_screen(self):
