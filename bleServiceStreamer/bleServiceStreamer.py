@@ -9,6 +9,16 @@ import time
 import random
 import os
 import urllib2
+from copy import copy
+try:
+    import assigned_numbers_utility as anutil
+except ImportError:
+    sys.path.insert(0, "../scripts")
+    try:
+        import assigned_numbers_utility as anutil
+    except ImportError:
+        print("Problem importing assigned_numbers_utility from the scripts folder.")
+        print("Make sure either scripts is on your path or you're running me from bleServiceStreamer.")
 
 try:
     import socketIO_client as sioc
@@ -25,6 +35,7 @@ BLESERVICE_PROFILE_ID = '9GmxTr7IuI'
 
 BLEADDR_EXPLORE_ADDR = 'http://gatd.eecs.umich.edu:8085/explore/profile/' + BLEADDR_PROFILE_ID
 BLESERVICE_POST_ADDR = 'http://gatd.eecs.umich.edu:8081/' + BLESERVICE_PROFILE_ID
+
 
 def main( ):
 
@@ -98,14 +109,66 @@ class ServiceController ():
 
             # handle bleAddr data
             if data_type == 'bleAddr':
-                #MEGHAN: Do stuff here
-                # Then after that
-                # add more keys and values to me!!!
-                #data = {'location_str': pkt['location_str']}
-                #post_to_gatd(data, self.post_address, self.log)
-                print(pkt)
+                #Process packets here        
+                print(pkt['name'])
+                print(pkt['ble_addr'])
+                payload = pkt['payload'][6:]
+                #print(self.hex_str_payload(payload))
+                gap_data = self.decoded_gap_data(self.get_gap_data(payload))
+                for field in gap_data:
+                    if type(field["data"]) == type(""):
+                        print("{0}: {1}".format(field["name"], field["data"]))
+                    else:
+                        field["data"].reverse() #big endian like god intended
+                        print("{0}: {1}".format(field["name"], self.hex_str_payload(field["data"])))
                 print("\n")
 
+                # eventually send things to GATD...
+                #data = {'location_str': pkt['location_str']}
+                #post_to_gatd(data, self.post_address, self.log)
+
+    def hex_str_payload(self, payload):
+        hex_payload = ""
+        for byte in payload:
+            hex_payload += "{:02x} ".format(byte)
+        return hex_payload
+
+    def get_gap_data(self, payload):
+        gap_data = []
+        buf = copy(payload)
+        while len(buf) > 3:
+            gap_data_type = []
+            num_bytes = buf.pop(0)
+            for i in range(num_bytes):
+                byte = buf.pop(0)
+                gap_data_type.append(byte)
+            gap_data.append(gap_data_type)
+        return gap_data
+
+    # This should be done programmatically off of the online SIG documents
+    def decoded_gap_data(self, gap_data):
+        decoded_gap_data = []
+        for field in gap_data:
+            decoded_field = {}
+            name = ""
+            field = copy(field)
+            data_type = field.pop(0)
+            try:
+                name = anutil.get_gap_data_type_name(data_type)
+                if name == "Shortened Local Name" or name == "Complete Local Name":
+                    data = ""
+                    for char in field:
+                        data += chr(char)
+                else:
+                    data = field
+            except:
+                name = data_type
+                data = field
+            decoded_field = {"name": name, "data": data}
+            decoded_gap_data.append(decoded_field)
+        return decoded_gap_data
+
+            
 
     def update_screen(self):
         # only update once per second at most
