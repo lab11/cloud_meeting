@@ -7,26 +7,25 @@
 #######################################
 from BeautifulSoup import BeautifulSoup
 import urllib2, re, csv, time
-sig_url = 'https://developer.bluetooth.org/TechnologyOverview/Pages/Profiles.aspx#GATT'
-search_term = "/TechnologyOverview/Pages/"
+#isig_url = 'https://developer.bluetooth.org/TechnologyOverview/Pages/Profiles.aspx#GATT'
+sig_url = 'https://developer.bluetooth.org/gatt/services/Pages/ServicesHome.aspx'
+search_term = "/ServiceViewer.aspx"
 html_page = urllib2.urlopen(sig_url)
 soup = BeautifulSoup(html_page)
-count = 0
-profiles = []
+services = []
 
-filename = time.strftime("%Y-%b%d_SIG-profiles")+ ".csv"
+
+filename = time.strftime("%Y-%b%d_SIG-services")+ ".csv"
 for link in soup.findAll('a'):
-    cur_href = link.get('href')
-    if cur_href == None:
+    if link == None:
          continue
-    if search_term in cur_href and count % 2 == 0:
-         profiles.append(cur_href.split("/")[-1][:-5])
-    count += 1
-profiles.sort()
+    if search_term in link['href']:
+         service_name = link.string 
+         assigned_num = link.parent.nextSibling.nextSibling.string 
+	 services.append((service_name, assigned_num))
 with open(filename, 'wb') as csvfile:
-    fieldnames = ['Profile Name']
+    fieldnames = ['Service Name', 'Assigned Number']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
-    for profile in profiles:
-          writer.writerow({'Profile Name': profile});
-      
+    for (service_name, assigned_num) in services:
+          writer.writerow({'Service Name': service_name, 'Assigned Number': assigned_num})
