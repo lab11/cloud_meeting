@@ -14,7 +14,7 @@ soup = BeautifulSoup(html_page)
 count = 0
 profiles = []
 
-filename = time.strftime("%y%H%M%S")+ ".csv"
+filename = time.strftime("%Y-%b%d_SIG-profiles")+ ".csv"
 for link in soup.findAll('a'):
     cur_href = link.get('href')
     if cur_href == None:
