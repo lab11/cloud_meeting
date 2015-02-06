@@ -1,0 +1,378 @@
+[{
+"ID": "70",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.alert_notification.xml",
+"SpecificationName.desc": "Alert Notification Service",
+"SpecificationType": "org.bluetooth.service.alert_notification",
+"AssignedNumber": "0x1811",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "68",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.battery_service.xml",
+"SpecificationName.desc": "Battery Service",
+"SpecificationType": "org.bluetooth.service.battery_service",
+"AssignedNumber": "0x180F",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "69",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.blood_pressure.xml",
+"SpecificationName.desc": "Blood Pressure",
+"SpecificationType": "org.bluetooth.service.blood_pressure",
+"AssignedNumber": "0x1810",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "93",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.body_composition.xml",
+"SpecificationName.desc": "Body Composition",
+"SpecificationType": "org.bluetooth.service.body_composition",
+"AssignedNumber": "0x181B",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "98",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.bond_management.xml",
+"SpecificationName.desc": "Bond Management",
+"SpecificationType": "org.bluetooth.service.bond_management",
+"AssignedNumber": "0x181E",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "99",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.continuous_glucose_monitoring.xml",
+"SpecificationName.desc": "Continuous Glucose Monitoring",
+"SpecificationType": "org.bluetooth.service.continuous_glucose_monitoring",
+"AssignedNumber": "0x181F",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "53",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.current_time.xml",
+"SpecificationName.desc": "Current Time Service",
+"SpecificationType": "org.bluetooth.service.current_time",
+"AssignedNumber": "0x1805",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "87",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.cycling_power.xml",
+"SpecificationName.desc": "Cycling Power",
+"SpecificationType": "org.bluetooth.service.cycling_power",
+"AssignedNumber": "0x1818",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "81",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.cycling_speed_and_cadence.xml",
+"SpecificationName.desc": "Cycling Speed and Cadence",
+"SpecificationType": "org.bluetooth.service.cycling_speed_and_cadence",
+"AssignedNumber": "0x1816",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "63",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.device_information.xml",
+"SpecificationName.desc": "Device Information",
+"SpecificationType": "org.bluetooth.service.device_information",
+"AssignedNumber": "0x180A",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "91",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.environmental_sensing.xml",
+"SpecificationName.desc": "Environmental Sensing",
+"SpecificationType": "org.bluetooth.service.environmental_sensing",
+"AssignedNumber": "0x181A",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "52",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.generic_access.xml",
+"SpecificationName.desc": "Generic Access",
+"SpecificationType": "org.bluetooth.service.generic_access",
+"AssignedNumber": "0x1800",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "49",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.generic_attribute.xml",
+"SpecificationName.desc": "Generic Attribute",
+"SpecificationType": "org.bluetooth.service.generic_attribute",
+"AssignedNumber": "0x1801",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "78",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.glucose.xml",
+"SpecificationName.desc": "Glucose",
+"SpecificationType": "org.bluetooth.service.glucose",
+"AssignedNumber": "0x1808",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "54",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.health_thermometer.xml",
+"SpecificationName.desc": "Health Thermometer",
+"SpecificationType": "org.bluetooth.service.health_thermometer",
+"AssignedNumber": "0x1809",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "66",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.heart_rate.xml",
+"SpecificationName.desc": "Heart Rate",
+"SpecificationType": "org.bluetooth.service.heart_rate",
+"AssignedNumber": "0x180D",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "71",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.human_interface_device.xml",
+"SpecificationName.desc": "Human Interface Device",
+"SpecificationType": "org.bluetooth.service.human_interface_device",
+"AssignedNumber": "0x1812",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "50",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.immediate_alert.xml",
+"SpecificationName.desc": "Immediate Alert",
+"SpecificationType": "org.bluetooth.service.immediate_alert",
+"AssignedNumber": "0x1802",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "101",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.internet_protocol_support.xml",
+"SpecificationName.desc": "Internet Protocol Support",
+"SpecificationType": "org.bluetooth.service.internet_protocol_support",
+"AssignedNumber": "0x1820",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "51",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.link_loss.xml",
+"SpecificationName.desc": "Link Loss",
+"SpecificationType": "org.bluetooth.service.link_loss",
+"AssignedNumber": "0x1803",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "88",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.location_and_navigation.xml",
+"SpecificationName.desc": "Location and Navigation",
+"SpecificationType": "org.bluetooth.service.location_and_navigation",
+"AssignedNumber": "0x1819",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "64",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.next_dst_change.xml",
+"SpecificationName.desc": "Next DST Change Service",
+"SpecificationType": "org.bluetooth.service.next_dst_change",
+"AssignedNumber": "0x1807",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "67",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.phone_alert_status.xml",
+"SpecificationName.desc": "Phone Alert Status Service",
+"SpecificationType": "org.bluetooth.service.phone_alert_status",
+"AssignedNumber": "0x180E",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "59",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.reference_time_update.xml",
+"SpecificationName.desc": "Reference Time Update Service",
+"SpecificationType": "org.bluetooth.service.reference_time_update",
+"AssignedNumber": "0x1806",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "80",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.running_speed_and_cadence.xml",
+"SpecificationName.desc": "Running Speed and Cadence",
+"SpecificationType": "org.bluetooth.service.running_speed_and_cadence",
+"AssignedNumber": "0x1814",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "72",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.scan_parameters.xml",
+"SpecificationName.desc": "Scan Parameters",
+"SpecificationType": "org.bluetooth.service.scan_parameters",
+"AssignedNumber": "0x1813",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "48",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.tx_power.xml",
+"SpecificationName.desc": "Tx Power",
+"SpecificationType": "org.bluetooth.service.tx_power",
+"AssignedNumber": "0x1804",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "94",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.user_data.xml",
+"SpecificationName.desc": "User Data",
+"SpecificationType": "org.bluetooth.service.user_data",
+"AssignedNumber": "0x181C",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "95",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Service",
+"SpecificationName":
+"\u002fgatt\u002fservices\u002fPages\u002fServiceViewer.aspx?u=org.bluetooth.service.weight_scale.xml",
+"SpecificationName.desc": "Weight Scale",
+"SpecificationType": "org.bluetooth.service.weight_scale",
+"AssignedNumber": "0x181D",
+"SpecificationLevel": "Adopted"
+}
+]

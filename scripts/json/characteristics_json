@@ -1,0 +1,1315 @@
+[{
+"ID": "271",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.aerobic_heart_rate_lower_limit.xml",
+"SpecificationName.desc": "Aerobic Heart Rate Lower Limit",
+"SpecificationType":
+"org.bluetooth.characteristic.aerobic_heart_rate_lower_limit",
+"AssignedNumber": "0x2A7E",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "273",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.aerobic_heart_rate_upper_limit.xml",
+"SpecificationName.desc": "Aerobic Heart Rate Upper Limit",
+"SpecificationType":
+"org.bluetooth.characteristic.aerobic_heart_rate_upper_limit",
+"AssignedNumber": "0x2A84",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "272",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.aerobic_threshold.xml",
+"SpecificationName.desc": "Aerobic Threshold",
+"SpecificationType": "org.bluetooth.characteristic.aerobic_threshold",
+"AssignedNumber": "0x2A7F",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "274",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.age.xml",
+"SpecificationName.desc": "Age",
+"SpecificationType": "org.bluetooth.characteristic.age",
+"AssignedNumber": "0x2A80",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "180",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.alert_category_id.xml",
+"SpecificationName.desc": "Alert Category ID",
+"SpecificationType": "org.bluetooth.characteristic.alert_category_id",
+"AssignedNumber": "0x2A43",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "179",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.alert_category_id_bit_mask.xml",
+"SpecificationName.desc": "Alert Category ID Bit Mask",
+"SpecificationType": "org.bluetooth.characteristic.alert_category_id_bit_mask",
+"AssignedNumber": "0x2A42",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "62",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.alert_level.xml",
+"SpecificationName.desc": "Alert Level",
+"SpecificationType": "org.bluetooth.characteristic.alert_level",
+"AssignedNumber": "0x2A06",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "181",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.alert_notification_control_point.xml",
+"SpecificationName.desc": "Alert Notification Control Point",
+"SpecificationType":
+"org.bluetooth.characteristic.alert_notification_control_point",
+"AssignedNumber": "0x2A44",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "173",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.alert_status.xml",
+"SpecificationName.desc": "Alert Status",
+"SpecificationType": "org.bluetooth.characteristic.alert_status",
+"AssignedNumber": "0x2A3F",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "275",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.anaerobic_heart_rate_lower_limit.xml",
+"SpecificationName.desc": "Anaerobic Heart Rate Lower Limit",
+"SpecificationType":
+"org.bluetooth.characteristic.anaerobic_heart_rate_lower_limit",
+"AssignedNumber": "0x2A81",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "276",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.anaerobic_heart_rate_upper_limit.xml",
+"SpecificationName.desc": "Anaerobic Heart Rate Upper Limit",
+"SpecificationType":
+"org.bluetooth.characteristic.anaerobic_heart_rate_upper_limit",
+"AssignedNumber": "0x2A82",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "277",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.anaerobic_threshold.xml",
+"SpecificationName.desc": "Anaerobic Threshold",
+"SpecificationType": "org.bluetooth.characteristic.anaerobic_threshold",
+"AssignedNumber": "0x2A83",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "257",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.apparent_wind_direction.xml",
+"SpecificationName.desc": "Apparent Wind Direction\u00a0",
+"SpecificationType": "org.bluetooth.characteristic.apparent_wind_direction",
+"AssignedNumber": "0x2A73",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "256",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.apparent_wind_speed.xml",
+"SpecificationName.desc": "Apparent Wind Speed",
+"SpecificationType": "org.bluetooth.characteristic.apparent_wind_speed",
+"AssignedNumber": "0x2A72",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "156",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.gap.appearance.xml",
+"SpecificationName.desc": "Appearance",
+"SpecificationType": "org.bluetooth.characteristic.gap.appearance",
+"AssignedNumber": "0x2A01",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "311",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.barometric_pressure_trend.xml",
+"SpecificationName.desc": "Barometric Pressure Trend",
+"SpecificationType": "org.bluetooth.characteristic.barometric_pressure_trend",
+"AssignedNumber": "0x2AA3",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "73",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.battery_level.xml",
+"SpecificationName.desc": "Battery Level",
+"SpecificationType": "org.bluetooth.characteristic.battery_level",
+"AssignedNumber": "0x2A19",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "186",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.blood_pressure_feature.xml",
+"SpecificationName.desc": "Blood Pressure Feature",
+"SpecificationType": "org.bluetooth.characteristic.blood_pressure_feature",
+"AssignedNumber": "0x2A49",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "71",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.blood_pressure_measurement.xml",
+"SpecificationName.desc": "Blood Pressure Measurement",
+"SpecificationType": "org.bluetooth.characteristic.blood_pressure_measurement",
+"AssignedNumber": "0x2A35",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "300",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.body_composition_feature.xml",
+"SpecificationName.desc": "Body Composition Feature",
+"SpecificationType": "org.bluetooth.characteristic.body_composition_feature",
+"AssignedNumber": "0x2A9B",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "301",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.body_composition_measurement.xml",
+"SpecificationName.desc": "Body Composition Measurement",
+"SpecificationType":
+"org.bluetooth.characteristic.body_composition_measurement",
+"AssignedNumber": "0x2A9C",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "139",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.body_sensor_location.xml",
+"SpecificationName.desc": "Body Sensor Location",
+"SpecificationType": "org.bluetooth.characteristic.body_sensor_location",
+"AssignedNumber": "0x2A38",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "321",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.bond_management_control_point.xml",
+"SpecificationName.desc": "Bond Management Control Point",
+"SpecificationType":
+"org.bluetooth.characteristic.bond_management_control_point",
+"AssignedNumber": "0x2AA4",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "320",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.bond_management_feature.xml",
+"SpecificationName.desc": "Bond Management Feature",
+"SpecificationType": "org.bluetooth.characteristic.bond_management_feature",
+"AssignedNumber": "0x2AA5",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "206",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.boot_keyboard_input_report.xml",
+"SpecificationName.desc": "Boot Keyboard Input Report",
+"SpecificationType": "org.bluetooth.characteristic.boot_keyboard_input_report",
+"AssignedNumber": "0x2A22",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "207",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.boot_keyboard_output_report.xml",
+"SpecificationName.desc": "Boot Keyboard Output Report",
+"SpecificationType": "org.bluetooth.characteristic.boot_keyboard_output_report",
+"AssignedNumber": "0x2A32",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "208",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.boot_mouse_input_report.xml",
+"SpecificationName.desc": "Boot Mouse Input Report",
+"SpecificationType": "org.bluetooth.characteristic.boot_mouse_input_report",
+"AssignedNumber": "0x2A33",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "344",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.gap.central_address_resolution_support.xml",
+"SpecificationName.desc": "Central Address Resolution",
+"SpecificationType":
+"org.bluetooth.characteristic.gap.central_address_resolution_support",
+"AssignedNumber": "0x2AA6",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "327",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.cgm_feature.xml",
+"SpecificationName.desc": "CGM Feature",
+"SpecificationType": "org.bluetooth.characteristic.cgm_feature",
+"AssignedNumber": "0x2AA8",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "323",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.cgm_measurement.xml",
+"SpecificationName.desc": "CGM Measurement",
+"SpecificationType": "org.bluetooth.characteristic.cgm_measurement",
+"AssignedNumber": "0x2AA7",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "325",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.cgm_session_run_time.xml",
+"SpecificationName.desc": "CGM Session Run Time",
+"SpecificationType": "org.bluetooth.characteristic.cgm_session_run_time",
+"AssignedNumber": "0x2AAB",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "326",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.cgm_session_start_time.xml",
+"SpecificationName.desc": "CGM Session Start Time",
+"SpecificationType": "org.bluetooth.characteristic.cgm_session_start_time",
+"AssignedNumber": "0x2AAA",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "322",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.cgm_specific_ops_control_point.xml",
+"SpecificationName.desc": "CGM Specific Ops Control Point",
+"SpecificationType":
+"org.bluetooth.characteristic.cgm_specific_ops_control_point",
+"AssignedNumber": "0x2AAC",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "324",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.cgm_status.xml",
+"SpecificationName.desc": "CGM Status",
+"SpecificationType": "org.bluetooth.characteristic.cgm_status",
+"AssignedNumber": "0x2AA9",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "227",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.csc_feature.xml",
+"SpecificationName.desc": "CSC Feature",
+"SpecificationType": "org.bluetooth.characteristic.csc_feature",
+"AssignedNumber": "0x2A5C",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "226",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.csc_measurement.xml",
+"SpecificationName.desc": "CSC Measurement",
+"SpecificationType": "org.bluetooth.characteristic.csc_measurement",
+"AssignedNumber": "0x2A5B",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "116",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.current_time.xml",
+"SpecificationName.desc": "Current Time",
+"SpecificationType": "org.bluetooth.characteristic.current_time",
+"AssignedNumber": "0x2A2B",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "237",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.cycling_power_control_point.xml",
+"SpecificationName.desc": "Cycling Power Control Point",
+"SpecificationType": "org.bluetooth.characteristic.cycling_power_control_point",
+"AssignedNumber": "0x2A66",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "240",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.cycling_power_feature.xml",
+"SpecificationName.desc": "Cycling Power Feature",
+"SpecificationType": "org.bluetooth.characteristic.cycling_power_feature",
+"AssignedNumber": "0x2A65",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "239",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.cycling_power_measurement.xml",
+"SpecificationName.desc": "Cycling Power Measurement",
+"SpecificationType": "org.bluetooth.characteristic.cycling_power_measurement",
+"AssignedNumber": "0x2A63",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "238",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.cycling_power_vector.xml",
+"SpecificationName.desc": "Cycling Power Vector",
+"SpecificationType": "org.bluetooth.characteristic.cycling_power_vector",
+"AssignedNumber": "0x2A64",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "298",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.database_change_increment.xml",
+"SpecificationName.desc": "Database Change Increment",
+"SpecificationType": "org.bluetooth.characteristic.database_change_increment",
+"AssignedNumber": "0x2A99",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "278",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.date_of_birth.xml",
+"SpecificationName.desc": "Date of Birth",
+"SpecificationType": "org.bluetooth.characteristic.date_of_birth",
+"AssignedNumber": "0x2A85",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "279",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.date_of_threshold_assessment.xml",
+"SpecificationName.desc": "Date of Threshold Assessment ",
+"SpecificationType":
+"org.bluetooth.characteristic.date_of_threshold_assessment",
+"AssignedNumber": "0x2A86",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "64",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.date_time.xml",
+"SpecificationName.desc": "Date Time",
+"SpecificationType": "org.bluetooth.characteristic.date_time",
+"AssignedNumber": "0x2A08",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "84",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.day_date_time.xml",
+"SpecificationName.desc": "Day Date Time",
+"SpecificationType": "org.bluetooth.characteristic.day_date_time",
+"AssignedNumber": "0x2A0A",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "70",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.day_of_week.xml",
+"SpecificationName.desc": "Day of Week",
+"SpecificationType": "org.bluetooth.characteristic.day_of_week",
+"AssignedNumber": "0x2A09",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "268",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.descriptor_value_changed.xml",
+"SpecificationName.desc": "Descriptor Value Changed",
+"SpecificationType": "org.bluetooth.characteristic.descriptor_value_changed",
+"AssignedNumber": "0x2A7D",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "157",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.gap.device_name.xml",
+"SpecificationName.desc": "Device Name",
+"SpecificationType": "org.bluetooth.characteristic.gap.device_name",
+"AssignedNumber": "0x2A00",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "265",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.dew_point.xml",
+"SpecificationName.desc": "Dew Point",
+"SpecificationType": "org.bluetooth.characteristic.dew_point",
+"AssignedNumber": "0x2A7B",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "67",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.dst_offset.xml",
+"SpecificationName.desc": "DST Offset",
+"SpecificationType": "org.bluetooth.characteristic.dst_offset",
+"AssignedNumber": "0x2A0D",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "118",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"http:\u002f\u002fdeveloper.bluetooth.org\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.elevation.xml",
+"SpecificationName.desc": "Elevation",
+"SpecificationType": "org.bluetooth.characteristic.elevation",
+"AssignedNumber": "0x2A6C",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "280",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.email_address.xml",
+"SpecificationName.desc": "Email Address",
+"SpecificationType": "org.bluetooth.characteristic.email_address",
+"AssignedNumber": "0x2A87",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "75",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.exact_time_256.xml",
+"SpecificationName.desc": "Exact Time 256",
+"SpecificationType": "org.bluetooth.characteristic.exact_time_256",
+"AssignedNumber": "0x2A0C",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "281",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.fat_burn_heart_rate_lower_limit.xml",
+"SpecificationName.desc": "Fat Burn Heart Rate Lower Limit",
+"SpecificationType":
+"org.bluetooth.characteristic.fat_burn_heart_rate_lower_limit",
+"AssignedNumber": "0x2A88",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "282",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.fat_burn_heart_rate_upper_limit.xml",
+"SpecificationName.desc": "Fat Burn Heart Rate Upper Limit",
+"SpecificationType":
+"org.bluetooth.characteristic.fat_burn_heart_rate_upper_limit",
+"AssignedNumber": "0x2A89",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "147",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.firmware_revision_string.xml",
+"SpecificationName.desc": "Firmware Revision String",
+"SpecificationType": "org.bluetooth.characteristic.firmware_revision_string",
+"AssignedNumber": "0x2A26",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "283",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.first_name.xml",
+"SpecificationName.desc": "First Name",
+"SpecificationType": "org.bluetooth.characteristic.first_name",
+"AssignedNumber": "0x2A8A",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "284",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.five_zone_heart_rate_limits.xml",
+"SpecificationName.desc": "Five Zone Heart Rate Limits",
+"SpecificationType": "org.bluetooth.characteristic.five_zone_heart_rate_limits",
+"AssignedNumber": "0x2A8B",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "285",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.gender.xml",
+"SpecificationName.desc": "Gender",
+"SpecificationType": "org.bluetooth.characteristic.gender",
+"AssignedNumber": "0x2A8C",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "213",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.glucose_feature.xml",
+"SpecificationName.desc": "Glucose Feature",
+"SpecificationType": "org.bluetooth.characteristic.glucose_feature",
+"AssignedNumber": "0x2A51",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "211",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.glucose_measurement.xml",
+"SpecificationName.desc": "Glucose Measurement",
+"SpecificationType": "org.bluetooth.characteristic.glucose_measurement",
+"AssignedNumber": "0x2A18",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "212",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.glucose_measurement_context.xml",
+"SpecificationName.desc": "Glucose Measurement Context",
+"SpecificationType": "org.bluetooth.characteristic.glucose_measurement_context",
+"AssignedNumber": "0x2A34",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "258",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.gust_factor.xml",
+"SpecificationName.desc": "Gust Factor",
+"SpecificationType": "org.bluetooth.characteristic.gust_factor",
+"AssignedNumber": "0x2A74",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "148",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.hardware_revision_string.xml",
+"SpecificationName.desc": "Hardware Revision String",
+"SpecificationType": "org.bluetooth.characteristic.hardware_revision_string",
+"AssignedNumber": "0x2A27",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "141",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.heart_rate_control_point.xml",
+"SpecificationName.desc": "Heart Rate Control Point",
+"SpecificationType": "org.bluetooth.characteristic.heart_rate_control_point",
+"AssignedNumber": "0x2A39",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "286",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.heart_rate_max.xml",
+"SpecificationName.desc": "Heart Rate Max",
+"SpecificationType": "org.bluetooth.characteristic.heart_rate_max",
+"AssignedNumber": "0x2A8D",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "137",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.heart_rate_measurement.xml",
+"SpecificationName.desc": "Heart Rate Measurement",
+"SpecificationType": "org.bluetooth.characteristic.heart_rate_measurement",
+"AssignedNumber": "0x2A37",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "264",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.heat_index.xml",
+"SpecificationName.desc": "Heat Index",
+"SpecificationType": "org.bluetooth.characteristic.heat_index",
+"AssignedNumber": "0x2A7A",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "287",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.height.xml",
+"SpecificationName.desc": "Height",
+"SpecificationType": "org.bluetooth.characteristic.height",
+"AssignedNumber": "0x2A8E",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "195",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.hid_control_point.xml",
+"SpecificationName.desc": "HID Control Point",
+"SpecificationType": "org.bluetooth.characteristic.hid_control_point",
+"AssignedNumber": "0x2A4C",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "194",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.hid_information.xml",
+"SpecificationName.desc": "HID Information",
+"SpecificationType": "org.bluetooth.characteristic.hid_information",
+"AssignedNumber": "0x2A4A",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "288",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.hip_circumference.xml",
+"SpecificationName.desc": "Hip Circumference",
+"SpecificationType": "org.bluetooth.characteristic.hip_circumference",
+"AssignedNumber": "0x2A8F",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "253",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.humidity.xml",
+"SpecificationName.desc": "Humidity",
+"SpecificationType": "org.bluetooth.characteristic.humidity",
+"AssignedNumber": "0x2A6F",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "77",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.ieee_11073-20601_regulatory_certification_data_list.xml",
+"SpecificationName.desc": "IEEE 11073-20601 Regulatory Certification Data List",
+"SpecificationType":
+"org.bluetooth.characteristic.ieee_11073-20601_regulatory_certification_data_list",
+"AssignedNumber": "0x2A2A",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "135",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.intermediate_cuff_pressure.xml",
+"SpecificationName.desc": "Intermediate Cuff Pressure",
+"SpecificationType": "org.bluetooth.characteristic.intermediate_blood_pressure",
+"AssignedNumber": "0x2A36",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "107",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.intermediate_temperature.xml",
+"SpecificationName.desc": "Intermediate Temperature",
+"SpecificationType": "org.bluetooth.characteristic.intermediate_temperature",
+"AssignedNumber": "0x2A1E",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "261",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.irradiance.xml",
+"SpecificationName.desc": "Irradiance",
+"SpecificationType": "org.bluetooth.characteristic.irradiance",
+"AssignedNumber": "0x2A77",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "305",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.language.xml",
+"SpecificationName.desc": "Language",
+"SpecificationType": "org.bluetooth.characteristic.language",
+"AssignedNumber": "0x2AA2",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "289",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.last_name.xml",
+"SpecificationName.desc": "Last Name",
+"SpecificationType": "org.bluetooth.characteristic.last_name",
+"AssignedNumber": "0x2A90",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "242",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.ln_control_point.xml",
+"SpecificationName.desc": "LN Control Point",
+"SpecificationType": "org.bluetooth.characteristic.ln_control_point",
+"AssignedNumber": "0x2A6B",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "241",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.ln_feature.xml",
+"SpecificationName.desc": "LN Feature",
+"SpecificationType": "org.bluetooth.characteristic.ln_feature",
+"AssignedNumber": "0x2A6A",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "87",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.local_time_information.xml",
+"SpecificationName.desc": "Local Time Information",
+"SpecificationType": "org.bluetooth.characteristic.local_time_information",
+"AssignedNumber": "0x2A0F",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "243",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.location_and_speed.xml",
+"SpecificationName.desc": "Location and Speed",
+"SpecificationType": "org.bluetooth.characteristic.location_and_speed",
+"AssignedNumber": "0x2A67",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "308",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.magnetic_declination.xml",
+"SpecificationName.desc": "Magnetic Declination",
+"SpecificationType": "org.bluetooth.characteristic.magnetic_declination",
+"AssignedNumber": "0x2A2C",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "309",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.magnetic_flux_density_2D.xml",
+"SpecificationName.desc": "Magnetic Flux Density - 2D",
+"SpecificationType": "org.bluetooth.characteristic.magnetic_flux_density_2D",
+"AssignedNumber": "0x2AA0",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "310",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.magnetic_flux_density_3D.xml",
+"SpecificationName.desc": "Magnetic Flux Density - 3D",
+"SpecificationType": "org.bluetooth.characteristic.magnetic_flux_density_3D",
+"AssignedNumber": "0x2AA1",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "154",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.manufacturer_name_string.xml",
+"SpecificationName.desc": "Manufacturer Name String",
+"SpecificationType": "org.bluetooth.characteristic.manufacturer_name_string",
+"AssignedNumber": "0x2A29",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "290",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.maximum_recommended_heart_rate.xml",
+"SpecificationName.desc": "Maximum Recommended Heart Rate",
+"SpecificationType":
+"org.bluetooth.characteristic.maximum_recommended_heart_rate",
+"AssignedNumber": "0x2A91",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "114",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.measurement_interval.xml",
+"SpecificationName.desc": "Measurement Interval",
+"SpecificationType": "org.bluetooth.characteristic.measurement_interval",
+"AssignedNumber": "0x2A21",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "146",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.model_number_string.xml",
+"SpecificationName.desc": "Model Number String",
+"SpecificationType": "org.bluetooth.characteristic.model_number_string",
+"AssignedNumber": "0x2A24",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "244",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.navigation.xml",
+"SpecificationName.desc": "Navigation",
+"SpecificationType": "org.bluetooth.characteristic.navigation",
+"AssignedNumber": "0x2A68",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "183",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.new_alert.xml",
+"SpecificationName.desc": "New Alert",
+"SpecificationType": "org.bluetooth.characteristic.new_alert",
+"AssignedNumber": "0x2A46",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "158",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.gap.peripheral_preferred_connection_parameters.xml",
+"SpecificationName.desc": "Peripheral Preferred Connection Parameters",
+"SpecificationType":
+"org.bluetooth.characteristic.gap.peripheral_preferred_connection_parameters",
+"AssignedNumber": "0x2A04",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "159",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.gap.peripheral_privacy_flag.xml",
+"SpecificationName.desc": "Peripheral Privacy Flag",
+"SpecificationType": "org.bluetooth.characteristic.gap.peripheral_privacy_flag",
+"AssignedNumber": "0x2A02",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "190",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.pnp_id.xml",
+"SpecificationName.desc": "PnP ID",
+"SpecificationType": "org.bluetooth.characteristic.pnp_id",
+"AssignedNumber": "0x2A50",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "259",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.pollen_concentration.xml",
+"SpecificationName.desc": "Pollen Concentration",
+"SpecificationType": "org.bluetooth.characteristic.pollen_concentration",
+"AssignedNumber": "0x2A75",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "245",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.position_quality.xml",
+"SpecificationName.desc": "Position Quality",
+"SpecificationType": "org.bluetooth.characteristic.position_quality",
+"AssignedNumber": "0x2A69",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "251",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.pressure.xml",
+"SpecificationName.desc": "Pressure",
+"SpecificationType": "org.bluetooth.characteristic.pressure",
+"AssignedNumber": "0x2A6D",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "203",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Characteristic",
+"SpecificationName":
+"\u002fgatt\u002fcharacteristics\u002fPages\u002fCharacteristicViewer.aspx?u=org.bluetooth.characteristic.protocol_mode.xml",
+"SpecificationName.desc": "Protocol Mode",
+"SpecificationType": "org.bluetooth.characteristic.protocol_mode",
+"AssignedNumber": "0x2A4E",
+"SpecificationLevel": "Adopted"
+}]

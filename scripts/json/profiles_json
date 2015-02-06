@@ -1,0 +1,181 @@
+[{
+"ID": "11",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.alert_notification.xml",
+"SpecificationName.desc": "Alert Notification",
+"SpecificationType": "org.bluetooth.profile.alert_notification",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "18",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.blood_pressure.xml",
+"SpecificationName.desc": "Blood Pressure",
+"SpecificationType": "org.bluetooth.profile.blood_pressure",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "27",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.cycling_power.xml",
+"SpecificationName.desc": "Cycling Power",
+"SpecificationType": "org.bluetooth.profile.cycling_power",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "23",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.cycling_speed_and_cadence.xml",
+"SpecificationName.desc": "Cycling Speed and Cadence",
+"SpecificationType": "org.bluetooth.profile.cycling_speed_and_cadence",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "3",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.find_me.xml",
+"SpecificationName.desc": "Find Me",
+"SpecificationType": "org.bluetooth.profile.find_me",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "21",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.glucose.xml",
+"SpecificationName.desc": "Glucose",
+"SpecificationType": "org.bluetooth.profile.glucose",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "4",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.health_thermometer.xml",
+"SpecificationName.desc": "Health Thermometer",
+"SpecificationType": "org.bluetooth.profile.health_thermometer",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "12",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.heart_rate.xml",
+"SpecificationName.desc": "Heart Rate",
+"SpecificationType": "org.bluetooth.profile.heart_rate",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "16",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.hid_over_gatt.xml",
+"SpecificationName.desc": "HID OVER GATT",
+"SpecificationType": "org.bluetooth.profile.hid_over_gatt",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "28",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.location_and_navigation.xml",
+"SpecificationName.desc": "Location and Navigation",
+"SpecificationType": "org.bluetooth.profile.location_and_navigation",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "15",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.phone_alert_status.xml",
+"SpecificationName.desc": "Phone Alert Status",
+"SpecificationType": "org.bluetooth.profile.phone_alert_status",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "13",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.proximity.xml",
+"SpecificationName.desc": "Proximity",
+"SpecificationType": "org.bluetooth.profile.proximity",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "20",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.running_speed_and_cadence.xml",
+"SpecificationName.desc": "Running Speed and Cadence",
+"SpecificationType": "org.bluetooth.profile.running_speed_and_cadence",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "17",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.scan_parameters.xml",
+"SpecificationName.desc": "Scan Parameters",
+"SpecificationType": "org.bluetooth.profile.scan_parameters",
+"SpecificationLevel": "Adopted"
+}
+,{
+"ID": "14",
+"PermMask": "0x1000030041",
+"FSObjType": "0",
+"HTML_x0020_File_x0020_Type": "",
+"ContentType": "Profile",
+"SpecificationName":
+"\u002fgatt\u002fprofiles\u002fPages\u002fProfileViewer.aspx?u=org.bluetooth.profile.time.xml",
+"SpecificationName.desc": "Time",
+"SpecificationType": "org.bluetooth.profile.time",
+"SpecificationLevel": "Adopted"
+}
+]
